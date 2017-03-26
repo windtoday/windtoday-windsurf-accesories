@@ -9,14 +9,14 @@ describe('directory » create', function () {
 
     it('prints name under detection', function () {
       const { data, output } = brand('chinook')
-      data.should.be.equal('Chinook')
-      output.should.be.equal('')
+      should(data).be.equal('Chinook')
+      should(output).be.equal('')
     })
 
     it('undefined under non detection', function () {
       const { data, output } = brand('foobar')
       should(data).be.undefined()
-      output.should.be.equal('foobar')
+      should(output).be.equal('foobar')
     })
   })
 })
