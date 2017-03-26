@@ -16,6 +16,10 @@
     "regex": "dakine"
   },
   {
+    "name": "Dynafiber",
+    "regex": "dynafiber"
+  },
+  {
     "name": "Mystic",
     "regex": "mystic"
   },
@@ -30,6 +34,14 @@
   {
     "name": "Radz",
     "regex": "radz"
+  },
+  {
+    "name": "Sideon",
+    "regex": "sideon"
+  },
+  {
+    "name": "Sinergy",
+    "regex": "sinergy"
   },
   {
     "name": "Technolimits",
