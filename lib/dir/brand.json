@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Aeron",
+    "regex": "aeron"
+  },
+  {
+    "name": "B3",
+    "regex": "b3"
+  },
+  {
+    "name": "Chinook",
+    "regex": "chinook"
+  },
+  {
+    "name": "Dakine",
+    "regex": "dakine"
+  },
+  {
+    "name": "Mystic",
+    "regex": "mystic"
+  },
+  {
+    "name": "Powerex",
+    "regex": "powerex"
+  },
+  {
+    "name": "Prolimit",
+    "regex": "prolimit"
+  },
+  {
+    "name": "Radz",
+    "regex": "radz"
+  },
+  {
+    "name": "Technolimits",
+    "regex": "technolomits"
+  },
+  {
+    "name": "Technospar",
+    "regex": "technospar"
+  },
+  {
+    "name": "Unifiber",
+    "regex": "unifiber"
+  },
+  {
+    "name": "maverx",
+    "regex": "mavex"
+  }
+]
