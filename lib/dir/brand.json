@@ -1,5 +1,9 @@
 [
   {
+    "name": "AL360",
+    "regex": "al360"
+  },
+  {
     "name": "Aeron",
     "regex": "aeron"
   },
@@ -20,8 +24,12 @@
     "regex": "dynafiber"
   },
   {
-    "name": "Ion",
+    "name": "ION",
     "regex": "ion"
+  },
+  {
+    "name": "MaverX",
+    "regex": "mavex"
   },
   {
     "name": "Mystic",
@@ -62,9 +70,5 @@
   {
     "name": "Unifiber",
     "regex": "unifiber"
-  },
-  {
-    "name": "maverx",
-    "regex": "mavex"
   }
 ]
