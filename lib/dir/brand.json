@@ -41,7 +41,7 @@
   },
   {
     "name": "Prolimit",
-    "regex": "prolimit"
+    "regex": "pro.?limit"
   },
   {
     "name": "Radz",
