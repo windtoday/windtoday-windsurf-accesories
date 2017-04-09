@@ -1,74 +1,74 @@
 [
   {
     "name": "AL360",
-    "regex": "al360"
+    "regex": ["al360"]
   },
   {
     "name": "Aeron",
-    "regex": "aeron"
+    "regex": ["aeron"]
   },
   {
     "name": "B3",
-    "regex": "b3"
+    "regex": ["b3"]
   },
   {
     "name": "Chinook",
-    "regex": "chinook"
+    "regex": ["chinook"]
   },
   {
     "name": "Dakine",
-    "regex": "dakine"
+    "regex": ["dakine"]
   },
   {
     "name": "Dynafiber",
-    "regex": "dynafiber"
+    "regex": ["dynafiber"]
   },
   {
     "name": "ION",
-    "regex": "ion"
+    "regex": ["ion"]
   },
   {
     "name": "MaverX",
-    "regex": "maverx"
+    "regex": ["maverx"]
   },
   {
     "name": "Mystic",
-    "regex": "mystic"
+    "regex": ["mystic"]
   },
   {
     "name": "Powerex",
-    "regex": "powerex"
+    "regex": ["powerex"]
   },
   {
     "name": "Prolimit",
-    "regex": "pro.?limit"
+    "regex": ["pro.?limit"]
   },
   {
     "name": "Radz",
-    "regex": "radz"
+    "regex": ["radz"]
   },
   {
     "name": "Sideon",
-    "regex": "sideon"
+    "regex": ["sideon"]
   },
   {
     "name": "Sinergy",
-    "regex": "sinergy"
+    "regex": ["sinergy"]
   },
   {
     "name": "Technolimits",
-    "regex": "technolomits"
+    "regex": ["technolomits"]
   },
   {
     "name": "Technospar",
-    "regex": "technospar"
+    "regex": ["technospar"]
   },
   {
     "name": "Tekknosport",
-    "regex": "tekknosport"
+    "regex": ["tekknosport"]
   },
   {
     "name": "Unifiber",
-    "regex": "unifiber"
+    "regex": ["unifiber"]
   }
 ]
