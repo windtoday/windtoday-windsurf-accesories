@@ -57,15 +57,15 @@
   },
   {
     "name": "Technolimits",
-    "regex": ["technolomits"]
+    "regex": ["techno.?limits"]
   },
   {
     "name": "Technospar",
-    "regex": ["technospar"]
+    "regex": ["techno.?spar"]
   },
   {
     "name": "Tekknosport",
-    "regex": ["tekknosport"]
+    "regex": ["tekkno.?sport"]
   },
   {
     "name": "Unifiber",
