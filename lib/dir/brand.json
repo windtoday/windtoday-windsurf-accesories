@@ -56,8 +56,8 @@
     "regex": ["sinergy"]
   },
   {
-    "name": "Technolimits",
-    "regex": ["techno.?limits"]
+    "name": "Tecnolimits",
+    "regex": ["tecno.?limits"]
   },
   {
     "name": "Technospar",
