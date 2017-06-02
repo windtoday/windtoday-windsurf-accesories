@@ -1,11 +1,14 @@
 'use strict'
 
-var createDirectory = require('../lib/create-directory')
-var should = require('should')
+const strmatch = require('str-match')()
+const should = require('should')
+
+const directory = require('../lib/dir/brand.json')
+const createDirectory = require('../lib/create-directory')
 
 describe('directory » create', function () {
   describe('brand', function () {
-    var brand = createDirectory(require('../lib/dir/brand.json'))
+    const brand = createDirectory(directory, strmatch)
 
     it('prints name under detection', function () {
       const { data, output } = brand('chinook')
