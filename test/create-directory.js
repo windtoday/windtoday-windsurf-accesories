@@ -3,8 +3,8 @@
 const strmatch = require('str-match')()
 const should = require('should')
 
-const directory = require('../lib/dir/brand.json')
 const createDirectory = require('../lib/create-directory')
+const directory = require('../lib/dir/brand.json')
 
 describe('directory » create', function () {
   describe('brand', function () {
