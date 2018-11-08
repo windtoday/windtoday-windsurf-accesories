@@ -5,7 +5,7 @@ const reduce = require('lodash.reduce')
 const map = require('lodash.mapvalues')
 
 const createDirectory = require('./lib/create-directory')
-const dirs = require('req-all')('./lib/dir')
+const dirs = require('import-modules')('./lib/dir')
 
 function directory (str, opts = {}) {
   const {strmatchOpts} = opts
